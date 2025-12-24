@@ -1,0 +1,33 @@
+# UI framework
+streamlit==1.39.0
+
+# LangChain core framework
+langchain==0.2.11
+langchain-community==0.2.6
+langchain-core==0.2.28
+langchain-openai==0.1.7
+
+# LLM providers
+openai==1.60.0
+google-generativeai==0.7.1
+
+# Vector store for semantic search
+faiss-cpu==1.7.4
+
+# Document parsing (PDF, Word, Excel, PPT)
+PyPDF2==3.0.1
+python-docx==1.1.2
+python-pptx==0.6.23
+openpyxl==3.1.5
+
+# Data processing and utilities
+pandas==2.2.2
+tiktoken==0.7.0
+python-dotenv==1.0.1
+
+# Speech-to-text support
+SpeechRecognition==3.10.4
+pyaudio==0.2.13
+
+# Database connectivity
+mysqlclient==2.2.4
