@@ -77,7 +77,7 @@ python --version
 ### Step 2: Clone the Repository
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/SirajChaudhary/personal-ai-chatbot.git
 cd personal-ai-chatbot
 ```
 
