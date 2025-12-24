@@ -3,6 +3,7 @@
 ## About
 
 Personal AI Chatbot is an AI-powered application built using modern Generative AI technologies.  
+
 It enables users to interact with multiple data sources such as the internet, personal databases, documents, and images using simple natural language queries.
 
 The goal of this chatbot is to provide a single unified interface for querying structured and unstructured data efficiently.
@@ -118,15 +119,24 @@ http://localhost:8501
 ```
 
 ## Application Snapshots
-
-```md
+### Home
 ![Home](screenshots/1.png)
+
+### Web Query
 ![Web Query](screenshots/2.png)
+
+### Database (Existing DB)
 ![Database](screenshots/3.png)
+
+### Database Query 
+##### Querying DB with plain english rather using SQL queries
 ![Database Query](screenshots/4.png)
+
+### Document Query
 ![Document Query](screenshots/5.png)
+
+### Image Query
 ![Image Query](screenshots/6.png)
-```
 
 ## Future Enhancements
 
